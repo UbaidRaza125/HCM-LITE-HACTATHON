@@ -1,0 +1,21 @@
+{
+  "name": "hcm-lite",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "@netlify/plugin-nextjs": "^5.16.4",
+    "firebase": "^11.0.2",
+    "firebase-admin": "^13.0.1",
+    "lucide-react": "^0.468.0",
+    "next": "^15.0.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "recharts": "^2.13.3"
+  }
+}
